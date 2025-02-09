@@ -1,0 +1,119 @@
+.center-1 {
+    display: grid;
+    place-items: center;
+    margin-top: 50px;
+    
+  }
+
+  .center-2 {
+    display: grid;
+    place-items: center;
+    margin-top: 100px;
+    margin-left: 80px;
+    
+  }
+  
+  .center-3 {
+    display: grid;
+    place-items: center;
+    margin-top: 125px;
+    margin-left: -50px;    
+  }
+
+  .list-wrapper {
+    text-align: left; /* Ensures text is aligned */
+
+  }
+
+  li {
+    list-style-type: none;
+  }
+
+
+  .pos1 {
+    font-size: 40px;
+    position: relative;
+    top: -400px;
+    left: 515px;
+  }
+
+  .pos2 {
+    font-size: 38px;
+    position: relative;
+    top: -230px;
+    left: 477px;
+  }
+
+  .pos3 {
+    font-size: 40px;
+    position: relative;
+    top: -57px;
+    left: 437px;
+  }
+
+  .circle {
+    width: 75px;  /* Size of the circle */
+    height: 75px;
+    border: 3px solid black;  /* Border color and thickness */
+    border-radius: 50%;  /* Makes it a circle */
+    background-color: transparent;  /* No fill */
+  }
+  .move-circ1 {
+    position: relative;
+    top: -461px;
+    left: 498px;
+  }
+
+  .move-circ2 {
+    position: relative;
+    top: -365px;
+    left: 498px;
+  }
+  
+  .move-circ3 {
+    position: relative;
+    top: -268px;
+    left: 498px;
+  }
+
+  .line1 {
+    width: 1.5px;
+    height: 14vh;
+    background-color: black;
+    position: absolute;
+    top: 215px;
+    left: 535px;
+  }
+
+  
+  .line2 {
+    width: 1.5px;
+    height: 14vh;
+    background-color: black;
+    position: absolute;
+    top: 388px;
+    left: 535px;
+  }
+
+  .date1{
+    position: relative;
+    top: -320px;
+    left: 417px;
+    font-weight: lighter;
+  }
+
+  .date2{
+    position: relative;
+    top: -510px;
+    left: 400px;
+    font-weight: lighter;
+
+  }
+
+  .date3{
+    position: relative;
+    top: -700px;
+    left: 400px;
+    font-weight: lighter;
+
+  }

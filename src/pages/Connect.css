@@ -1,0 +1,38 @@
+.form{
+    font-family: Buenard, serif;
+    display: flex;
+    flex-direction: column;
+    margin-top: 75px;
+    width: 45%;
+    margin-left: 400px;
+}
+
+.form input,
+.form textarea {
+    height: 50px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-family: Buenard, serif;
+
+}
+
+.form textarea {
+    height: 150px; /* Adjust the height to make it more like a box */
+    resize: none; 
+}
+
+.button {
+    width: 200px;
+    background-color: whitesmoke;
+    margin-left: 240px;
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}

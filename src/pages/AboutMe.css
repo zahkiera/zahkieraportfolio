@@ -1,0 +1,30 @@
+img {
+    border-radius: 100px; /* Makes edges rounded */
+  }
+
+  .me {
+    width: 100%;
+    height: 100vh; /* Or any specific height */
+    display: grid;
+    place-items: center;
+    margin-top: -200px;
+  }
+  .abtme {
+    display: grid;
+    place-items: center;
+    text-align: center;
+    margin-top: -200px;
+    margin-left: 520px;
+    max-width: 475px;
+  }
+
+  .udl {
+    position: inherit;
+    border-bottom: 1px solid #000; 
+    padding-bottom: 5px; 
+    margin-top: 7px;
+    width: 25%; /* Underline will take up 25% of the width */
+    margin-left: auto;  
+    margin-right: auto; 
+    display: block; 
+}
