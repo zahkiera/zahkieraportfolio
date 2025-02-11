@@ -1,30 +1,32 @@
-img {
-    border-radius: 100px; /* Makes edges rounded */
-  }
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers both the image and text */
+  text-align: center;
+  margin-top: 20px;
+}
 
-  .me {
-    width: 100%;
-    height: 100vh; /* Or any specific height */
-    display: grid;
-    place-items: center;
-    margin-top: -200px;
-  }
-  .abtme {
-    display: grid;
-    place-items: center;
-    text-align: center;
-    margin-top: -200px;
-    margin-left: 520px;
-    max-width: 475px;
-  }
+.profile-img {
+  border-radius: 50%; /* Makes it fully round */
+  width: 200px;
+  height: 200px;
+  object-fit: cover; /* Ensures the image doesn't stretch */
+  margin-top: 20px;
+}
 
-  .udl {
-    position: inherit;
-    border-bottom: 1px solid #000; 
-    padding-bottom: 5px; 
-    margin-top: 7px;
-    width: 25%; /* Underline will take up 25% of the width */
-    margin-left: auto;  
-    margin-right: auto; 
-    display: block; 
+.abtme {
+  max-width: 475px;
+  text-align: center;
+  font-family: 'Buenard', serif;
+  margin-top: 20px; /* Adds spacing between image and text */
+  font-size: 16px;
+}
+
+.udl {
+  border-bottom: 1px solid #000; 
+  padding-bottom: 5px; 
+  margin-top: 10px;
+  width: 25%; /* Underline width */
+  margin-left: auto;  
+  margin-right: auto; 
 }

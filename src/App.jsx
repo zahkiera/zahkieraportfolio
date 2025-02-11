@@ -8,7 +8,7 @@ import { Header } from './components/Header'
 
 function App() {
   return (
-    <div className='container'>
+    <div>
       <Header />  
       <main className="flex-1 flex justify-center items-center">
         <Routes> 

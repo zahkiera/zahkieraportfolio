@@ -1,10 +1,18 @@
-.form{
+.connect-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center;
+    margin-top: 20px;
+}
+
+.form {
     font-family: Buenard, serif;
     display: flex;
     flex-direction: column;
+    align-items: center; /* Ensures everything inside is centered */
     margin-top: 75px;
     width: 45%;
-    margin-left: 400px;
 }
 
 .form input,
@@ -15,20 +23,27 @@
     border-radius: 5px;
     border: 1px solid #ccc;
     font-family: Buenard, serif;
-
+    width: 100%; /* Makes input fields match the form width */
 }
 
 .form textarea {
     height: 150px; /* Adjust the height to make it more like a box */
-    resize: none; 
+    resize: none;
 }
 
 .button {
     width: 200px;
     background-color: whitesmoke;
-    margin-left: 240px;
     cursor: pointer;
+    margin-top: 15px; /* Adds spacing from textarea */
+    align-self: center; /* Centers the button inside the flex container */
+    padding: 10px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
 }
+
 
 .error {
     color: red;

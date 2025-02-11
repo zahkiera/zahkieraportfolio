@@ -9,9 +9,9 @@ export function Portfolio() {
         <div className="title">
             <h2 className="fade-in">Portfolio</h2>
         </div>
-
+        <div className='port-container'>
         <div className="image-container">
-    <div className="image-item">
+        <div className="image-item">
         <img src="https://miro.medium.com/v2/resize:fit:1400/1*NP1e-SPxHILfBDSueWGxNQ.png" />
         <h4>Audio Analysis</h4>
 
@@ -33,6 +33,7 @@ export function Portfolio() {
         <h4>Database Management System</h4>
         <a href="https://drive.google.com/file/d/1xXTf9WTRrFZLhI6ntKyRhfzZ6eraMzsB/view?usp=sharing" target="_blank">Powerpoint</a>
         </div>
+</div>
 </div>
 
 <motion.div

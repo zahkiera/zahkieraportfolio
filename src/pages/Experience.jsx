@@ -7,7 +7,7 @@ export function Experience() {
         <div className="title">
             <h2 className="fade-in">Education & Experience</h2>            
         </div>
-
+      <div className="ex-container"></div>
         <div className="center-1">
             <div className="list-wrapper">
                 <h3>Florida Polytechnic University</h3>

@@ -62,6 +62,7 @@ export function Connect() {
             <h2 className="fade-in">Connect with Me!</h2>
         </div>
 
+        <div className='connect-container'>
         {errorMessage && <p className="error">{errorMessage}</p>} {/* Display errors */}
 
         <form className="form" onSubmit={Submit}>
@@ -70,6 +71,7 @@ export function Connect() {
             <textarea placeholder="Leave a brief message :)" name="Message"/>
             <input className='button' type='Submit' />
         </form>
+        </div>
         </>
     );
 }
