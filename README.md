@@ -1,4 +1,4 @@
-# Welcom to my Portfolio
+# Welcome to my Portfolio
 
 You can access the website at https://zahkiera.vercel.app.
 My linkedin is https://linkedin.com/in/zahkiera
