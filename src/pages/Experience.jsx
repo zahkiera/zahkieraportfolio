@@ -116,15 +116,6 @@ export function Experience() {
 
 
 
-{/*
-      <h4 className="date1 fade-in">2017 - 2020</h4>
-
-      <h4 className="date2 fade-in">2019 - Present</h4>
-      <h4 className="date3 fade-in">2023 - Present</h4>
-
-
-       Not sure if i want fade in for the dates or animation */}
-
 
         </>
         

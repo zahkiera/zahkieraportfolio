@@ -1,0 +1,36 @@
+[33mcommit 3207ab4731f2e5b30e35143dd1231e838ae6b793[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: zahkiera <kieradreams@gmail.com>
+Date:   Tue Feb 11 18:12:49 2025 -0500
+
+    Fixed Spacing
+
+[33mcommit a2b85bdcfac23819644708f6500347d1eb166967[m
+Merge: fd04ce2 db6085b
+Author: zahkiera <kieradreams@gmail.com>
+Date:   Tue Feb 11 11:52:45 2025 -0500
+
+    Merge branch 'master' of https://github.com/zahkiera/zahkieraportfolio
+
+[33mcommit fd04ce2c238db0c4c4b536a26649115002d7eb2a[m
+Author: zahkiera <kieradreams@gmail.com>
+Date:   Tue Feb 11 11:49:09 2025 -0500
+
+    Fixed spacing on homepage
+
+[33mcommit db6085be30f677e4c1f443504eea87560a6973f1[m
+Author: zahkiera <147083696+zahkiera@users.noreply.github.com>
+Date:   Sun Feb 9 16:42:53 2025 -0500
+
+    Create README.md
+
+[33mcommit 0a54a0949395f9910b336e83e520af8b3394a309[m
+Author: zahkiera <kieradreams@gmail.com>
+Date:   Sun Feb 9 16:10:00 2025 -0500
+
+    Removed some vite files + updated gitignore
+
+[33mcommit 3aee0369e7814b55e8766a49843bcc166387756e[m
+Author: zahkiera <kieradreams@gmail.com>
+Date:   Sun Feb 9 15:16:28 2025 -0500
+
+    First commit of website

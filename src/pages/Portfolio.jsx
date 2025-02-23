@@ -62,7 +62,7 @@ export function Portfolio() {
         <li>SQL</li>
         </ul>
 
-    <a className='link' href="https://drive.google.com/file/d/15UjPjTcV31cR3-cqsWWq_yvS1zRiJlKB/view?usp=sharing" target="_blank">Check out my Resume</a>
+    <a className='link' href="https://drive.google.com/file/d/1wtuhelwptcgJGhWKZWEcvcAJo0FP16mo/view?usp=sharing" target="_blank">Check out my Resume</a>
     </>
     )
 }
